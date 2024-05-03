@@ -54,7 +54,7 @@ const generateTabContent = () => {
     try {
       setGeneratingImg(true);
 
-      const response = await fetch("http://localhost:8082/api/v1/dalle", {
+      const response = await fetch("https://threejs-3d-tool.onrender.com", {
         method: "POST",
         headers: {
           "Content-Type": "application/json"
