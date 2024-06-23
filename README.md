@@ -10,16 +10,16 @@ Create your own style with our new 3D Swag Customization Application. Pick color
 ![Screenshot (108)](https://github.com/Keerthana-r-venugopal/threejs_shop/assets/158607664/94a92082-6478-4e49-9be4-30228813f139)
 # ⚙️ Tech Stack
 React.js
-Three.js
-React Three Fiber
-React Three Drei
-Vite
-Tailwind CSS
-Node.js
-Express.js
-OpenAI
-Framer Motion
-Valtio
+<br>Three.js
+<br>React Three Fiber
+<br>React Three Drei
+<br>Vite
+<br>Tailwind CSS
+<br>Node.js
+<br>Express.js
+<br>OpenAI
+<br>Framer Motion
+<br>Valtio
 # 🔋 Features
 👉 3D Swag Generation: Generate unique 3D shirts/swag items dynamically
 
