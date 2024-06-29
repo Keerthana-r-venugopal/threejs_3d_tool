@@ -32,3 +32,6 @@ React.js
 👉 AI-Generated Logo Integration: Utilize AI to generate logos and intelligently apply them to the 3D shirt.
 
 👉 AI-Generated Textures: Implement AI-generated textures for enhanced 3D shirt customization.
+
+# Contributing
+Feel free to contribute to this project by creating pull requests, reporting issues, or suggesting new features.
